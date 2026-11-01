@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# Neo4j & Local Data
+neo4j_data/
+*.log
+
+# IDE & OS files
+.vscode/
+.DS_Store
+Thumbs.db

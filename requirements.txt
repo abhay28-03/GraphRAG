@@ -1,0 +1,10 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+groq>=0.9.0
+fastembed>=0.2.7
+networkx>=3.2.1
+python-louvain>=0.16
+neo4j>=5.18.0
+numpy>=1.26.4
+pydantic>=2.6.4
+pyvis>=0.3.2
