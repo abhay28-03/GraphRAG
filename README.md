@@ -1,3 +1,5 @@
+![CI Pipeline](https://github.com/abhay28-03/GraphRAG/actions/workflows/ci.yml/badge.svg)
+
 # GraphRAG: Enterprise Knowledge Graph & Multi-Hop Reasoning Microservice
 
 A containerized GraphRAG engine combining **Neo4j**, in-memory **NetworkX** traversals, local ONNX embeddings (`bge-small-en-v1.5`), and **Groq LPUs** to resolve multi-hop reasoning failures inherent in standard dense vector retrieval.
