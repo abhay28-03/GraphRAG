@@ -1,4 +1,4 @@
-![CI Pipeline](https://github.com/abhay28-03/GraphRAG/actions/workflows/ci.yml/badge.svg)
+[![GraphRAG CI Pipeline](https://github.com/abhay28-03/GraphRAG/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/abhay28-03/GraphRAG/actions/workflows/ci.yml)
 
 # GraphRAG: Enterprise Knowledge Graph & Multi-Hop Reasoning Microservice
 
