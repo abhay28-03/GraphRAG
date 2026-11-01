@@ -2,6 +2,12 @@
 
 # GraphRAG: Enterprise Knowledge Graph & Multi-Hop Reasoning Microservice
 
+## Interactive Graph Visualizations
+
+| PyVis In-Memory Traversal | Neo4j Cypher Enterprise Graph |
+| :---: | :---: |
+| ![PyVis Graph](assets/graph_preview.png) | ![Neo4j Graph](assets/neo4j_traversal.png) |
+
 A containerized GraphRAG engine combining **Neo4j**, in-memory **NetworkX** traversals, local ONNX embeddings (`bge-small-en-v1.5`), and **Groq LPUs** to resolve multi-hop reasoning failures inherent in standard dense vector retrieval.
 
 ---
